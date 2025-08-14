@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Skills / Tools & Tech I Know
+## 🚀 Tech Stack
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,redux,vite,nodejs,express,mongodb,appwrite,java,git,github,vscode" />
