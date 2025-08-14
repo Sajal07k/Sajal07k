@@ -3,26 +3,16 @@
 <!-- Animated subtitle -->
 <div align="center">
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Open+to+Grab+Opportunities;Tech+Enthusiast+%7C+Problem+Solver;Building+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Open+to+Grab+Opportunities;Tech+Enthusiast+%7C+Problem+Solver;Building+Web+Apps" alt="Typing SVG" />
 </a>
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Skills / Tools & Tech I Know
 <div align="center">
 
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,redux,vite" />
-
-### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,appwrite" />
-
-### **Programming**
-<img src="https://skillicons.dev/icons?i=java" />
-
-### **Tools & Others**
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,redux,vite,nodejs,express,mongodb,appwrite,java,git,github,vscode" />
 
 </div>
 
