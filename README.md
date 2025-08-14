@@ -3,7 +3,7 @@
 <!-- Animated subtitle -->
 <div align="center">
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Open+to+Grab+Opportunities;Tech+Enthusiast+%7C+Problem+Solver;Building+Web+Apps" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,redux,vite,java,nodejs,express,mongodb,appwrite,git,github,vscode" />
 </a>
 </div>
 
