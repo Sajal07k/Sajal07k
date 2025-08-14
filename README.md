@@ -65,9 +65,28 @@
 
 ---
 
-## 💡 Quote of the Day
+## 🤝 Connect with Me
 <div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<a href="https://github.com/Sajal07k" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://www.linkedin.com/in/sajal-gupta-391761326/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:sajal23@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+</div>
+
+---
+
+## ☕ Support Me
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 
 </div>
